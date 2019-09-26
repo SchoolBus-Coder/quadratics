@@ -5,11 +5,13 @@ public class Main {
     public static void main(String[] args) {
 
         //todo declare variables a, b, c, discriminant, axisOfSymmetry,parabolaFacing, x, y
-        double a,b,c,discriminant,axisOfSymmetry,x,y
+        double a,b,c,discriminant,axisOfSymmetry,x,y;
                 String paraboloFacing;
 
         //todo initialize manually
-
+                a=5;
+                b=3;
+                c=1;
         //todo do calculations
 
         //todo print results
